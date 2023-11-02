@@ -1,11 +1,11 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=be80ff&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=63d3ff&size=35&center=true&vCenter=true&width=1000&lines=Olá+Visitante,+;Meu+nome+é+Bruna+Santos.;Seja+muito+bem-vindo(a)+!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=63d3ff&size=35&center=true&vCenter=true&width=1000&lines=Olá+Visitante,+;Meu+nome+é+Luiz+Augusto.;Seja+muito+bem-vindo(a)!+:%29)](https://git.io/typing-svg)
 
 ##
 <div align="center">   
   
-Sou estudante de programação com foco em **back-end**, artista e apaixonada por tecnologia e criatividade. Aqui no meu **GitHub**, você encontrará meus projetos, onde compartilho minhas experiências e aprendendizados. Espero que você goste do meu trabalho e sinta-se à vontade para entrar em contato comigo !
+Sou estudante de programação com foco em **back-end**. Aqui no meu **GitHub**, você encontrará meus projetos, onde compartilho minhas experiências e aprendendizados. Espero que você goste do meu trabalho e sinta-se à vontade para entrar em contato comigo !
 <div/>
 
 ##
