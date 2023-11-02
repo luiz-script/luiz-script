@@ -42,7 +42,7 @@ Sou estudante de programação com foco em **back-end**. Aqui no meu **GitHub**,
 ##
 
 <div align="center"> 
-<a href = "mailto:luizaugusto7589@gmail.com"  target="_blank" rel="next"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
+<a href = "mailto:luizaugusto7589@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
 <a href="https://www.linkedin.com/in/luiz-augusto-610377238/  target="_blank" rel="next"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
 <a href="" target="_black"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=be80ff" style="border-radius: 30px" target="_blank"></a> 
 </div> 
