@@ -4,8 +4,8 @@
 
 ##
 <div align="center">   
-  
-Sou estudante de programação com foco em **back-end**. Aqui no meu **GitHub**, você encontrará meus projetos, onde compartilho minhas experiências e aprendendizados. Espero que você goste do meu trabalho e sinta-se à vontade para entrar em contato comigo !
+
+Sou desenvolvedor iniciante com foco em **back-end**. Aqui no meu **GitHub**, você encontrará meus projetos, onde compartilho minhas experiências e aprendendizados. Espero que você goste do meu trabalho e sinta-se à vontade para entrar em contato comigo !
 <div/>
 
 ##
@@ -18,18 +18,14 @@ Sou estudante de programação com foco em **back-end**. Aqui no meu **GitHub**,
 ##
 
 ### PRINCIPAIS HABILIDADES:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS 3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+![JAVASCRIPT](https://img.shields.io/badge/logo-javascript-blue?logo=javascript)&nbsp;
 
 ### FERRAMENTAS:
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 
