@@ -20,7 +20,7 @@ Sou desenvolvedor iniciante com foco em **back-end**. Aqui no meu **GitHub**, vo
 ### PRINCIPAIS HABILIDADES:
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS 3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![JAVASCRIPT](https://repository-images.githubusercontent.com/242067697/b6b36a80-83cc-11ea-94f7-a520c3d1b941)&nbsp;
+![JAVASCRIPT](https://img.shields.io/badge/logo-javascript-blue?logo=javascript)&nbsp;
 
 ### FERRAMENTAS:
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
